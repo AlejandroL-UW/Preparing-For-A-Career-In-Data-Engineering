@@ -39,9 +39,9 @@
 <img width="1536" height="1024" alt="UW Bothell Data Engineering Roadmap" src="https://github.com/user-attachments/assets/8b3f325e-5fae-4152-a787-d96b7400fb03" />
 
 ## Making Connections
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the most useful ways to building teamwork and making real connections, is by through Internships, but keep in mind they are not the only way. AT UW Bothell, they list CSS 495 as a possible internship elective, which is highly depending on your program rules[[8]](#ref-8). You can also look at student help clubs, projects, hack-a-thons, or beginner-friendly open-source contributions. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the most useful ways to building teamwork and making real connections, is by through Internships, but keep in mind they are not the only way. At UW Bothell, they list CSS495 as a possible internship elective, which is highly dependent on your program rules[[8]](#ref-8). You can also look at student held clubs, projects, hack-a-thons, or beginner-friendly open-source contributions. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another good way is by attending Career Fairs and Conventions, as well as conversations with Alumni can help you learn how different companies describe the work of Data Engineering since every company goes about it differently with different expectations and expected outcomes. It is recommended to keep you GitHub projects linked on your resume, as well as practice explaining what each one does. When reading an internship or entry-level positions, compare the requirements with some of the skills you learned and are able to demonstrate, instead of assuming you need every tool listed in order to become an applicant.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another good way is by attending Career Fairs and Conventions, as well as conversations with fellow Alumni can help you learn how different companies describe the work of Data Engineering, since every company goes about it differently with different expectations and expected outcomes. It is recommended to keep your GitHub projects linked on your resume, as well as practice explaining what each project does. When reading an internship or entry-level positions, compare the requirements with some of the skills you learned and are able to demonstrate, instead of assuming you need every tool listed in order to become an applicant.
 
 
 ## Checking Readiness

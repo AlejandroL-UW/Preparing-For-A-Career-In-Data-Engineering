@@ -19,7 +19,7 @@
 
 ## Purpose
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a student who is taking Computing & Software Systems(CSS) or Applied Computing(AC) interested in Data Engineering, you will face more choices than a degree checklist could resolve. Data Engineers build and maintain systems that make the information usable for others [[1](#ref-1). The coursework you will be taking will provide a foundation, but the employers also need to evidence to see you can apply that knowledge. The learning plan for post-graduation identifies practical ways to develop data skills, experience, and professional connections while preparing for entry-level opportunities.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a student who is taking Computing & Software Systems(CSS) or Applied Computing(AC) interested in Data Engineering, you will face more choices than a degree checklist could resolve. Data Engineers build and maintain systems that make the information usable for others [[1](#ref-1)]. The coursework you will be taking will provide a foundation, but the employers also need to evidence to see you can apply that knowledge. The learning plan for post-graduation identifies practical ways to develop data skills, experience, and professional connections while preparing for entry-level opportunities.
 
 ## Learning the Skills
 
@@ -34,7 +34,7 @@
 ## Learning Beyond the Class
 
 ### Why It Matters
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The course assignments you will be taking helps establish core concepts, while independent passion projects will help reveal what happens when data is incomplete or when it fails. For AC students, a second discipline could provide a useful area for data projects [[8](#ref-8).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The course assignments you will be taking helps establish core concepts, while independent passion projects will help reveal what happens when data is incomplete or when it fails. For AC students, a second discipline could provide a useful area for data projects [[8](#ref-8)].
 
 ### Best Practice(s)
 

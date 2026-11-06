@@ -18,19 +18,30 @@
 ---
 
 ## Purpose
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a student who is taking Computing & Software Systems(CSS) or Applied Computing(AC) and are wanting to venture down the route of becoming a Data Engineer, in order to determine you end goal and figuring out what to do to get to that goal can be confusing. The goal of being a Data Engineer is that they help move, organize, and prepare information so other people can use it [[1]](#ref-1). This plan that has been made is to help focus on the skills, the practices, and the connections that you can develop while still attending UW Bothell. The goal of this plan is not to master every tool before graduation but its purpose is so that you can have work that you can explain and improve.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a student who is taking Computing & Software Systems(CSS) or Applied Computing(AC) interested in Data Engineering, you will face more choices than a degree checklist could resolve. Data Engineers build and maintain systems that make the information usable for others [[1](#ref-1). The coursework you will be taking will provide a foundation, but the employers also need to evidence to see you can apply that knowledge. The learning plan for post-graduation identifies practical ways to develop data skills, experience, and professional connections while preparing for entry-level opportunities.
 
 ## Learning the Skills
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For learning skills, a good first skill to start getting familiar with is SQL along with Python. They both give you practical ways to work with data. With learning SQL, it allows you retrieve, join, and organize information within a database. With Python, its usage allows it to help automate repetitive tasks. A way you can practice is with PostgreSQL, it is an open source database and it gives you a place to try queries on real datasets[[2]](#red-2). When you get to a point to where the basics start to feel familiar, explore extract, transform, load (ETL) and extract, load, tranform (ETL), these are two ways of moving and preparing data[[3]](#ref-3)
+
+### Why It Matters
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For this, SQL and Python will be the main support of the work you will be doing, in retrieving, preparing, and moving data. Database knowledge also can help recongnize errors before they spread down the pipeline. Cloud services and workflow tools only become useful after you are able to understand the fundamentals. With employers, they may use different software stacks, but the underlying tasks are still the same, with organizing, validating, and delivering trustable data.
+
+### Best Practice(s)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When it comes to cloud based, it is recommended to focus on one platform rather than many at one time. A platform that is highly recommended is AWS, they offer introductory cloud training, and Microsoft as well offers data engineering lessons[[4]](#ref-4), [[5]](#ref-5). Some other tools that could be worth exploring would be dbt and Apache Airflow, these can help once the basics have been explored. With dbt, it helps organizes the transformations within SQL, while Airflow helps schedules and monitors workflow[[6]](#ref-6), [[7]](#ref-7). With these being just some of the learning options, these are not requirements for graduation.
 
 ## Learning Beyond the Class
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Well since you are attending UW Bothell to achieve that degree in CSS/AP, the core classes are required and part of your degree, on your free time try to learn skills that are not covered within your core or elective based classes. A short online lesson can be more useful when you are testing the idea on your own projects / computer. An example could be that after learning about databases, you could try to import a public dataset and writing questions you can answer with SQL. When the query fails, trying to understand how and why it failed can teach you something that a video or something in a book can't.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At UW Bothell, they allow AC students to choose a second discipline, with that being an option, you can discuss your options with your academic advisor of programs that could be of interest[[8]](#ref-8). The second discipline you choose can also help with your overall interest as well as coming up with a project idea. An example, a business discipline might lead down the road to sales data, while an environmental discipline might lead to weather or air-quality data. Certifications are optional.
+### Why It Matters
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The course assignments you will be taking helps establish core concepts, while independent passion projects will help reveal what happens when data is incomplete or when it fails. For AC students, a second discipline could provide a useful area for data projects [[8](#ref-8).
+
+### Best Practice(s)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Connect one course concept with a personal passion project, for example, import a dataset that is public, write SQL questions, and document how you were able to correct the results. If you are AC, discuss a possible second discipline with your advisor and select project topics that connect computing to your interests. With certifications, treat them as optional evidence of learning rather than substitutes for practical work. As well as keep brief notes about programs you solved.
 
 ## Portfolio and Experience
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A portfolio in Github can give you a way to show that you are actively learning instead of showcasing/listing tools on a resume. A project that is manageable is a Python program that collects information from a public Application Programming Interface (API), it checks to see if there is any missing values, and saves the clean record in PostgreSQL. It is recommended to add a .README that is able to explain the problems you encountered, the tools used/plan to use, the setup, and the overall goal. Down the line, you can add automatic runs or simple monitoring as your skills improve[[9]](#ref-9).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure 1 brings together the activities that can support your goal. It shows that technical practice, independent learning, professional preparation, and experience are all contributing to your goal to being able to apply for your dream career. Project work is important as it allows for you to have something specific to discuss with future employers.
@@ -39,9 +50,13 @@
 <img width="1536" height="1024" alt="UW Bothell Data Engineering Roadmap" src="https://github.com/user-attachments/assets/8b3f325e-5fae-4152-a787-d96b7400fb03" />
 
 ## Making Connections
+
+### Why It Matters
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the most useful ways to building teamwork and making real connections, is by through Internships, but keep in mind they are not the only way. At UW Bothell, they list CSS495 as a possible internship elective, which is highly dependent on your program rules[[8]](#ref-8). You can also look at student held clubs, projects, hack-a-thons, or beginner-friendly open-source contributions. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another good way is by attending Career Fairs and Conventions, as well as conversations with fellow Alumni can help you learn how different companies describe the work of Data Engineering, since every company goes about it differently with different expectations and expected outcomes. It is recommended to keep your GitHub projects linked on your resume, as well as practice explaining what each project does. When reading an internship or entry-level positions, compare the requirements with some of the skills you learned and are able to demonstrate, instead of assuming you need every tool listed in order to become an applicant.
+### Best Practice(s)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attend Career Fairs and Conventions, utilizing a one page resume and a link to your GitHub portfolio. Introduce your degree path, describe data projects in a few sentences, and ask the recruiters which skills matter for the entry position. Following up with a brief message referencing the conversation is another thing that can be done. As well as explore the clubs, hackathons, and other collaborative projects. These can offer practice in technical decision making with teammates of different backgrounds.
 
 
 ## Checking Readiness

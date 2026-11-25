@@ -46,7 +46,9 @@ Use LinkedIn or UW Husky Landing to find data engineers, UW alumni working with 
 
 **Figure 1. Following Up After a Data Engineering Career Conversation**
 
-<img width="836" height="470" alt="Building Professional Connections Flowchart" src="https://github.com/user-attachments/assets/594fba1f-da23-47dd-bfa1-6fc55a0de30e" />
+<p align="center">
+  <img width="836" height="470" alt="Building Professional Connections Flowchart" src="https://github.com/user-attachments/assets/594fba1f-da23-47dd-bfa1-6fc55a0de30e" />
+</p>
 
 ## Checking Your Progress
 ### Understanding Why Reviewing Progress Matters

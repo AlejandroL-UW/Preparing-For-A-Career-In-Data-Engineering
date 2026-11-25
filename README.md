@@ -2,8 +2,6 @@
 
 ![Original cover illustration showing data and technology](<img width="1672" height="941" alt="UW Bothell Data Engineering Graduation Plan" src="https://github.com/user-attachments/assets/7819d390-6dbc-4647-934e-a20685d235c5" />)
 
-*Cover image: Original illustration created for this graduation plan.*
-
 **Prepared for:** UW Bothell CSS/AC students interested in data engineering  
 **Prepared by:** Alejandro Lanier  
 **Date:** November 24, 2026
@@ -47,8 +45,6 @@ Use LinkedIn or UW Husky Landing to find data engineers, UW alumni working with 
 **Figure 1. Following Up After a Data Engineering Career Conversation**
 
 ![Decision flowchart showing when to thank a contact, how to respond, and when to stop following up](<img width="1672" height="941" alt="Building Professional Connections Flowchart" src="https://github.com/user-attachments/assets/594fba1f-da23-47dd-bfa1-6fc55a0de30e" />)
-
-*Figure 1: Original visual explaining one part of maintaining professional connections.*
 
 ## Checking Your Progress
 ### Understanding Why Reviewing Progress Matters

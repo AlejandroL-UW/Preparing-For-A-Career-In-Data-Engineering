@@ -60,7 +60,7 @@ As graduation gets closer, review your experience notes, resume, and conversatio
 ## Conclusion
 Preparing for a career in Data Engineering takes more than completing your degree. By understanding your existing experience, improving how you present yourself, and maintaining professional relationships, you can better prepare for future opportunities. Following these practices while attending UW Bothell can help you build a stronger foundation before entering the field.
 
-**[word count: 642]**
+**[word count: 694]**
 
 ## References
 <a id="ref-1"></a>

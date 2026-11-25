@@ -6,7 +6,7 @@
 
 **Prepared for:** UW Bothell CSS/AC students interested in data engineering  
 **Prepared by:** Alejandro Lanier  
-**Date:** November 24, 2026
+**Date:** November 22, 2026
 
 ---
 

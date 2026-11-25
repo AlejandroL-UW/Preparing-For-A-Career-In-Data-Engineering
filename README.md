@@ -57,7 +57,7 @@ As you learn what data engineering employers expect, you may discover gaps betwe
 ### Revisiting Your Preparation
 As graduation gets closer, review your experience notes, resume, and conversations with professionals in data-related roles. Identify one change you made and one data engineering requirement you still need to understand. Use resume feedback and those conversations to choose your next step. This keeps your plan realistic without presenting technical projects or courses as activities you are currently doing.
 
-**[word count: 632]**
+**[word count: 642]**
 
 ## References
 <a id="ref-1"></a>

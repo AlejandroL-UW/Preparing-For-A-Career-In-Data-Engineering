@@ -1,9 +1,6 @@
 # From a Husky to a Data Engineer
 
-![Original cover illustration showing data and technology](<img width="1672" height="941" alt="UW Bothell Data Engineering Graduation Plan" src="https://github.com/user-attachments/assets/7819d390-6dbc-4647-934e-a20685d235c5" />)
-
-<img width="1672" height="941" alt="Building Professional Connections Flowchart" src="https://github.com/user-attachments/assets/982edde3-bf79-4a18-87bf-47bfc9258fd3" />
-
+![Original cover illustration showing data and technology]<img width="1672" height="941" alt="UW Bothell Data Engineering Graduation Plan" src="https://github.com/user-attachments/assets/7819d390-6dbc-4647-934e-a20685d235c5" />
 
 **Prepared for:** UW Bothell CSS/AC students interested in data engineering  
 **Prepared by:** Alejandro Lanier  

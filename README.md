@@ -1,6 +1,7 @@
+<p align="center">
 # From a Husky to a Data Engineer
 
-<p align="center">
+
   <img width="557" height="313" alt="UW Bothell Data Engineering Graduation Plan" src="https://github.com/user-attachments/assets/7819d390-6dbc-4647-934e-a20685d235c5" />
 </p>
 
